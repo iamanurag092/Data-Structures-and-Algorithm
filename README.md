@@ -16,6 +16,7 @@ DSA questions from Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,4 +30,9 @@ DSA questions from Leetcode
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
+## String
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
