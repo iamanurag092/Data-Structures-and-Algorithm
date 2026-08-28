@@ -26,6 +26,7 @@ DSA questions from Leetcode
 | [0027-remove-element](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -40,6 +41,7 @@ DSA questions from Leetcode
 | ------- |
 | [0125-valid-palindrome](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
