@@ -31,11 +31,13 @@ DSA questions from Leetcode
 | [0283-move-zeroes](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
@@ -49,6 +51,7 @@ DSA questions from Leetcode
 | [0242-valid-anagram](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0392-is-subsequence) |
 ## Math
 |  |
 | ------- |
