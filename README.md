@@ -34,6 +34,7 @@ DSA questions from Leetcode
 | [0344-reverse-string](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0392-is-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -55,6 +56,7 @@ DSA questions from Leetcode
 | [0344-reverse-string](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0392-is-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
 | ------- |
@@ -63,4 +65,8 @@ DSA questions from Leetcode
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
