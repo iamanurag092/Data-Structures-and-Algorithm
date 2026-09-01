@@ -10,6 +10,7 @@ DSA questions from Leetcode
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
@@ -26,6 +27,7 @@ DSA questions from Leetcode
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
@@ -41,6 +43,7 @@ DSA questions from Leetcode
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
