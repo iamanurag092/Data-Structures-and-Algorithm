@@ -18,6 +18,7 @@ DSA questions from Leetcode
 | [0217-contains-duplicate](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
+| [3875-construct-uniform-parity-array-i](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@ DSA questions from Leetcode
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0066-plus-one) |
+| [3875-construct-uniform-parity-array-i](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
