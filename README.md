@@ -40,6 +40,7 @@ DSA questions from Leetcode
 | [0345-reverse-vowels-of-a-string](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
@@ -77,4 +78,8 @@ DSA questions from Leetcode
 | ------- |
 | [0011-container-with-most-water](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
