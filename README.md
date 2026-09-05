@@ -42,6 +42,7 @@ DSA questions from Leetcode
 | [0680-valid-palindrome-ii](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -82,4 +83,5 @@ DSA questions from Leetcode
 |  |
 | ------- |
 | [0876-middle-of-the-linked-list](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
