@@ -24,6 +24,7 @@ DSA questions from Leetcode
 | ------- |
 | [0001-two-sum](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -36,6 +37,7 @@ DSA questions from Leetcode
 | [0088-merge-sorted-array](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0344-reverse-string) |
@@ -85,10 +87,12 @@ DSA questions from Leetcode
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/iamanurag092/Data-Structures-and-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
